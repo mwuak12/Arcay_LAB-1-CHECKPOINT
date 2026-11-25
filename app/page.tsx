@@ -11,6 +11,7 @@ Welcome to my home page.
 <Link href="/projects" className="mt-4 inline-block underline">
         See my projects
       </Link>
+
 </main>
 
 );
